@@ -55,8 +55,8 @@ body {
   color: #fff;
 }
 
-.btn:disabled{
-    cursor: no-drop;
+.btn:disabled {
+  cursor: no-drop;
 }
 
 #next-btn {
@@ -74,9 +74,9 @@ body {
 }
 
 .correct {
-    background: #9aeabc;
+  background: #9aeabc;
 }
 
-.incorrect{
-    background: #ff9393;
+.incorrect {
+  background: #ff9393;
 }
