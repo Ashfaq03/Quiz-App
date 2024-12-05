@@ -17,11 +17,11 @@ A basic interactive quiz application built using HTML, CSS, and JavaScript. This
 
 ## Project Structure
 
-  Quiz-App/ 
-  ├── index.html # Main HTML file for the quiz application 
-  ├── style.css # Stylesheet for designing the quiz 
-  ├── app.js # JavaScript file containing the quiz logic 
-  └── README.md # Project documentation (this file)
+    Quiz-App/ 
+      ├── index.html # Main HTML file for the quiz application 
+      ├── style.css # Stylesheet for designing the quiz 
+      ├── app.js # JavaScript file containing the quiz logic 
+      └── README.md # Project documentation (this file)
 
 
 ## How to Run the Project
@@ -54,3 +54,12 @@ A basic interactive quiz application built using HTML, CSS, and JavaScript. This
 
 ### Enjoy the quiz! 🎉
 
+## 🤝 Contributing
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
+
+## 📧 Contact
+For any inquiries or suggestions, feel free to reach out at:
+
+GitHub: [@Ashfaq03](https://github.com/Ashfaq03)
+
+Linkedin: [Syed Ashfaquddin](https://www.linkedin.com/in/syedashfaquddin/)
